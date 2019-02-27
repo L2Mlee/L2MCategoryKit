@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'L2MCategoryKit'
-  s.version          = '0.1.0'
+  s.version          = '1'
   s.summary          = 'A short description of L2MCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Twelve/L2MCategoryKit'
+  s.homepage         = 'https://github.com/L2Mlee/L2MCategoryKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Twelve' => '592916171@qq.com' }
-  s.source           = { :git => 'https://github.com/Twelve/L2MCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/L2Mlee/L2MCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

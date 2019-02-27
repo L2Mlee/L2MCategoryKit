@@ -1,0 +1,6 @@
+framework module L2MCategoryKit {
+  umbrella header "L2MCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

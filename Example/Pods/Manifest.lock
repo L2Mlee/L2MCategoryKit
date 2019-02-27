@@ -1,0 +1,16 @@
+PODS:
+  - L2MCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - L2MCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  L2MCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  L2MCategoryKit: 93287804d1dce2e56f4577295571f8925abcd0c1
+
+PODFILE CHECKSUM: 59f80bd2f697fb0b0f06e8dc9c790431fedcac0b
+
+COCOAPODS: 1.5.3
