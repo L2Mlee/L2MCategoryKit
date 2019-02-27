@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'L2MCategoryKit_Example' do
+  pod 'L2MCategoryKit', :path => '../'
+
+  target 'L2MCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
